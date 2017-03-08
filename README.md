@@ -17,8 +17,8 @@ I didn't want to have any CAT5 cables, etc. so here is my Version.
 
 ## Images
 Its a lamp!
-![Lamp Picture 1](https://raw.githubusercontent.com/echox/ikea-lamp-hack/master/images/1.jpg)
-![Lamp Picture 2 - Inside Board](https://raw.githubusercontent.com/echox/ikea-lamp-hack/master/images/2.jpg)
+<img src="https://raw.githubusercontent.com/echox/ikea-lamp-hack/master/images/1.jpg" width="50%">
+<img src="https://raw.githubusercontent.com/echox/ikea-lamp-hack/master/images/2.jpg" width="50%">
 
 ## BOM
 * 1x Sparkcore now called [Particle Photon](https://www.particle.io/products/hardware/photon-wifi-dev-kit)
